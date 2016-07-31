@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://www.essenciel.co.nz/</loc>
+  <changefreq>daily</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://www.essenciel.co.nz/index.html</loc>
+  <changefreq>daily</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://www.essenciel.co.nz/about-us.html</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.essenciel.co.nz/treatments.html</loc>
+  <changefreq>daily</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://www.essenciel.co.nz/world-organics.html</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.essenciel.co.nz/pamper-party.html</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>http://www.essenciel.co.nz/get-together.html</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>http://www.essenciel.co.nz/contact-us.html</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+</urlset>

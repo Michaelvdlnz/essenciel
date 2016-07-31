@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /about-us.html
+Allow: /treatments.html
+Allow: /world-organics.html
+Allow: /pamper-party.html
+Allow: /get-together.html
+Allow: /contact-us.html
